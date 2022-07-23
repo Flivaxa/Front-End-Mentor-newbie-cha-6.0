@@ -76,7 +76,6 @@ body {
     font-family: 'Big Shoulders Display', cursive;
     text-transform: uppercase;
     font-weight: 700;
-    font-size: 2rem;
     color: var(--Neutral-Very-light-gray);
 }
 .container main .card p {
