@@ -72,7 +72,7 @@ body {
 .container main .card img {
     width: 50px;
 }
-.container main .card h2 {
+.container main .card h1 {
     font-family: 'Big Shoulders Display', cursive;
     text-transform: uppercase;
     font-weight: 700;
